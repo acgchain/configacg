@@ -2,7 +2,7 @@
 	"name":"ACG",
 	"token":"ACG",
         "mytoken-api": {
-	   "url": "https://speed-api.mytokenapi.com"
+	   "url": "https://api.mytokenapi.com"
          },
 	"domain":"http://www.acgchain.io",
 	"tag_name":"1.0.0",
